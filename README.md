@@ -1,3 +1,3 @@
-# email.mg.23andme.com
+# https://lhstage.mercadolibre.com/
 
 ## Subdomain Takeover by blackedevil_48
